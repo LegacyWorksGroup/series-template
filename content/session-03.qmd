@@ -2,6 +2,8 @@
 title: "Session 3 Title"
 ---
 
+<meta name="robots" content="noindex, nofollow">
+
 <span style="color:red">2-4 sentence session description text.</span>
 
 :::{.callout-tip icon="false" collapse="false"}
