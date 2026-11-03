@@ -8,7 +8,6 @@ The LegacyWorks Group Community of Practice is a space for developing the core c
 
 <br>
 
-
 :::{.callout-tip icon="false" collapse="false"}
 ## {{< fa brain >}} Learning Objectives
 
