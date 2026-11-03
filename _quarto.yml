@@ -1,0 +1,52 @@
+project:
+  type: website
+  execute-dir: project
+  output-dir: docs
+  render:
+    - "*.qmd"
+
+execute: 
+  freeze: auto
+
+website:
+  favicon: content/images/logo_lwg-circle.png
+  title: "LegacyWorks Group Template Series Website"
+  repo-url: https://github.com/LegacyWorksGroup
+  repo-actions: [issue]
+  navbar:
+    background: primary
+    right: 
+      - text: "{{< fa house >}}"
+        href: https://legacyworksgroup.com/
+      - icon: github
+        href: https://github.com/LegacyWorksGroup
+  sidebar:
+    collapse-level: 2
+    style: docked
+    contents:
+      - href: index.qmd
+      - section: "Series Contents"
+        contents: 
+          - text: "Session 1"
+            href: content/session-01.qmd
+          - text: "Session 2"
+            href: content/session-02.qmd
+          - text: "Session 3"
+            href: content/session-03.qmd
+      - text: "Series Recordings"
+        href: recordings.qmd
+      - text: "Resources"
+        href: resources.qmd
+  page-footer: 
+    center: "&copy; 2026, LegacyWorks Group (Loop: [{{< fa arrows-spin >}}](https://sites.google.com/legacyworksgroup.com/legacy-loop/legacyloop))"
+    background: secondary
+
+format:
+  html:
+    toc: true
+    link-external-newwindow: true
+    link-external-icon: false
+    theme:
+      light: themes/lwg-light.scss
+      dark: themes/lwg-dark.scss
+    mainfont: Open Sans
