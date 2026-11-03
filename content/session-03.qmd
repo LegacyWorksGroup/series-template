@@ -6,8 +6,8 @@ title: "Session 3 Title"
 
 <span style="color:red">2-4 sentence session description text.</span>
 
-:::{.callout-tip icon="false" collapse="false"}
-## Core Competencies Strengthened
+:::{.callout-note icon="false" collapse="false"}
+## {{< fa people-group >}} Core Competencies Strengthened
 
 _Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
 
