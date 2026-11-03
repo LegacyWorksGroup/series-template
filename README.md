@@ -1,2 +1,3 @@
-# series-template
-Template for LWG series website
+# LegacyWorks Series: Template Website
+
+Hosts the template for a LWG-style Quarto website deployed through GitHub Pages.
