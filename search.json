@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Additional Resources",
+    "section": "",
+    "text": "See below for some likely-useful resources!",
+    "crumbs": [
+      "{{< fa house >}}",
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#language-accessibility",
+    "href": "resources.html#language-accessibility",
+    "title": "Additional Resources",
+    "section": "Language Accessibility",
+    "text": "Language Accessibility",
+    "crumbs": [
+      "{{< fa house >}}",
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Series Overview",
+    "section": "",
+    "text": "The LegacyWorks Group Community of Practice is a space for developing the core competencies needed to show up in service of collaborative, community-driven change initiatives. 2-3 sentence description specific to this series.",
+    "crumbs": [
+      "{{< fa house >}}",
+      "Series Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#series-structure",
+    "href": "index.html#series-structure",
+    "title": "Series Overview",
+    "section": "Series Structure",
+    "text": "Series Structure\n\n202x-2x Structure",
+    "crumbs": [
+      "{{< fa house >}}",
+      "Series Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#series-schedule",
+    "href": "index.html#series-schedule",
+    "title": "Series Overview",
+    "section": "Series Schedule",
+    "text": "Series Schedule\n\n202x-2x Schedule\n\n\n\n\n\n\n\n\n\n\nDate\nSeries\nPrimary Instructor\n\n\n\n\nMonth ##, 202x\nSeries Name\n Instructor",
+    "crumbs": [
+      "{{< fa house >}}",
+      "Series Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#series-policies",
+    "href": "index.html#series-policies",
+    "title": "Series Overview",
+    "section": "Series Policies",
+    "text": "Series Policies\n\nAttendance\nWe hope you will prioritize attendance of all classes in this series, but if you need to miss, please email the series instructor as early as possible. This will help us to share resources and plan for a smaller in-class community while you are out. Our hope is that you want to be present, but we totally understand that you have many demands on your time and sometimes life happens!\nPlease keep in mind that your presence in and contributions to class are important both to your understanding of the material and the creation and maintenance of our community of practice.\n\n\nUsability, Accessibility, and Design\nWe are committed to creating a community of practice that is inclusive in its design. If you encounter barriers, please let the instructors know immediately so that we can determine if there is a design adjustment that can be made or if an accommodation might be needed to overcome the limitations of the design. We are always happy to consider creative solutions as long as they do not compromise the intent of the learning activity. We welcome feedback that will assist us in improving the usability and experience for all participants.",
+    "crumbs": [
+      "{{< fa house >}}",
+      "Series Overview"
+    ]
+  },
+  {
+    "objectID": "content/session-02.html",
+    "href": "content/session-02.html",
+    "title": "Session 2 Title",
+    "section": "",
+    "text": "2-4 sentence session description text.",
+    "crumbs": [
+      "{{< fa house >}}",
+      "Series Contents",
+      "Session 2"
+    ]
+  },
+  {
+    "objectID": "content/session-02.html#additional-resources",
+    "href": "content/session-02.html#additional-resources",
+    "title": "Session 2 Title",
+    "section": "Additional Resources",
+    "text": "Additional Resources\n\nPapers, Blog Posts, and Books\n\nx\n\n\n\nWorkshops\n\nx",
+    "crumbs": [
+      "{{< fa house >}}",
+      "Series Contents",
+      "Session 2"
+    ]
+  },
+  {
+    "objectID": "content/session-01.html",
+    "href": "content/session-01.html",
+    "title": "Session 1 Title",
+    "section": "",
+    "text": "2-4 sentence session description text.",
+    "crumbs": [
+      "{{< fa house >}}",
+      "Series Contents",
+      "Session 1"
+    ]
+  },
+  {
+    "objectID": "content/session-01.html#additional-resources",
+    "href": "content/session-01.html#additional-resources",
+    "title": "Session 1 Title",
+    "section": "Additional Resources",
+    "text": "Additional Resources\n\nPapers, Blog Posts, and Books\n\nx\n\n\n\nWorkshops\n\nx",
+    "crumbs": [
+      "{{< fa house >}}",
+      "Series Contents",
+      "Session 1"
+    ]
+  },
+  {
+    "objectID": "content/session-03.html",
+    "href": "content/session-03.html",
+    "title": "Session 3 Title",
+    "section": "",
+    "text": "2-4 sentence session description text.",
+    "crumbs": [
+      "{{< fa house >}}",
+      "Series Contents",
+      "Session 3"
+    ]
+  },
+  {
+    "objectID": "content/session-03.html#additional-resources",
+    "href": "content/session-03.html#additional-resources",
+    "title": "Session 3 Title",
+    "section": "Additional Resources",
+    "text": "Additional Resources\n\nPapers, Blog Posts, and Books\n\nx\n\n\n\nWorkshops\n\nx",
+    "crumbs": [
+      "{{< fa house >}}",
+      "Series Contents",
+      "Session 3"
+    ]
+  },
+  {
+    "objectID": "recordings.html",
+    "href": "recordings.html",
+    "title": "Series Recordings",
+    "section": "",
+    "text": "Past offerings of this series have been recorded and are embedded below. Use the headings below to find the part of the series for which you want to view the recording then choose the relevant tab for which iteration of the recording (if more than one is available) is of interest.",
+    "crumbs": [
+      "{{< fa house >}}",
+      "Series Recordings"
+    ]
+  },
+  {
+    "objectID": "recordings.html#session-1",
+    "href": "recordings.html#session-1",
+    "title": "Series Recordings",
+    "section": "Session 1",
+    "text": "Session 1\n\n202x-2x CoP",
+    "crumbs": [
+      "{{< fa house >}}",
+      "Series Recordings"
+    ]
+  },
+  {
+    "objectID": "recordings.html#session-2",
+    "href": "recordings.html#session-2",
+    "title": "Series Recordings",
+    "section": "Session 2",
+    "text": "Session 2\n\n202x-2x CoP",
+    "crumbs": [
+      "{{< fa house >}}",
+      "Series Recordings"
+    ]
+  },
+  {
+    "objectID": "recordings.html#session-3",
+    "href": "recordings.html#session-3",
+    "title": "Series Recordings",
+    "section": "Session 3",
+    "text": "Session 3\n\n202x-2x CoP",
+    "crumbs": [
+      "{{< fa house >}}",
+      "Series Recordings"
+    ]
+  }
+]
