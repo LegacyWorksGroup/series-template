@@ -16,6 +16,8 @@ website:
   navbar:
     background: primary
     right: 
+      - text: "Series Catalog"
+        href: https://legacyworksgroup.github.io/learning-catalog/
       - text: "{{< fa house >}}"
         href: https://legacyworksgroup.com/
       - icon: github
