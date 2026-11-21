@@ -1,0 +1,10 @@
+## Under Construction
+
+:::{.callout-note icon="false" collapse="true"}
+## {{< fa video >}} Section Recording
+
+_Relevant recording to be added; stay tuned!_
+
+:::
+
+{{< fa person-digging >}} Check back later!
